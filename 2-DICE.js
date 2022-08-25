@@ -25,3 +25,6 @@ function categorySelection(num) {
   }
 }
 let num = Math.floor(Math.random() * 13);
+
+console.log("MTN Business App of the Year in the year 2022 WIN PREDICTION IS "+categorySelection(num));
+let start = window.prompt("Press ENTER to predict Or type 'Start")
